@@ -1,0 +1,1 @@
+import{D as e}from"./detail.0fb4b055.js";import{_ as t}from"./index.ec7e3197.js";import{c as r,r as a,o as s}from"./vendor.2cb241fc.js";import"./userModel.96b4559b.js";import"./request.df1cff29.js";const c={components:{Detail:e}};function n(p,i,m,_,f,l){const o=a("detail");return s(),r(o,{"is-edit":!1})}var v=t(c,[["render",n]]);export{v as default};
