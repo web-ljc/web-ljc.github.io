@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/409.00d3d5f6.chunk.js","mappings":"6IAQA,UARa,WACX,OACE","sources":["pages/index/main.tsx"],"sourcesContent":["const Main = () => {\n  return (\n    <div>\n      首页\n    </div>\n  )\n}\n\nexport default Main"],"names":[],"sourceRoot":""}

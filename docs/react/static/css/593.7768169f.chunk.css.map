@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/593.7768169f.chunk.css","mappings":"AAAA,eAEE,YAAa,CADb,qBAEF","sources":["pages/index/index.less"],"sourcesContent":[".index-echarts {\n  margin: 2rem 1rem 3rem;\n  height: 300px;\n}\n@primary-color: #1DA57A;"],"names":[],"sourceRoot":""}
