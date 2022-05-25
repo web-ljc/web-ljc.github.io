@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e35e8624.css",
-    "main.js": "/static/js/main.143a0d85.js",
-    "static/js/787.a0928356.chunk.js": "/static/js/787.a0928356.chunk.js",
+    "main.css": "/static/css/main.2b95ea86.css",
+    "main.js": "/static/js/main.4cc72c10.js",
+    "static/js/27.7656ed2f.chunk.js": "/static/js/27.7656ed2f.chunk.js",
     "static/media/李佳臣_前端开发简历.pdf": "/static/media/李佳臣_前端开发简历.a629d188973174d87f3e.pdf",
     "index.html": "/index.html",
     "static/media/Node文章.md": "/static/media/Node文章.f188cd3116382653bf1f.md",
     "static/media/React文章2.md": "/static/media/React文章2.f188cd3116382653bf1f.md",
     "static/media/Vue文章.md": "/static/media/Vue文章.f188cd3116382653bf1f.md",
-    "static/media/微前端技术.md": "/static/media/微前端技术.f188cd3116382653bf1f.md",
-    "static/media/React文章.md": "/static/media/React文章.2f56c1b337aa9c322d2e.md",
-    "main.e35e8624.css.map": "/static/css/main.e35e8624.css.map",
-    "main.143a0d85.js.map": "/static/js/main.143a0d85.js.map",
-    "787.a0928356.chunk.js.map": "/static/js/787.a0928356.chunk.js.map"
+    "static/media/微前端技术.md": "/static/media/微前端技术.012dcd52b91855a09459.md",
+    "static/media/React文章.md": "/static/media/React文章.2f56c1b337aa9c322d2e.md"
   },
   "entrypoints": [
-    "static/css/main.e35e8624.css",
-    "static/js/main.143a0d85.js"
+    "static/css/main.2b95ea86.css",
+    "static/js/main.4cc72c10.js"
   ]
 }
