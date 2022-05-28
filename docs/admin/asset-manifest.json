@@ -1,28 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.7d377f4b.css",
-    "main.js": "/static/js/main.d2ff688a.js",
-    "static/css/811.038ef1dd.chunk.css": "/static/css/811.038ef1dd.chunk.css",
-    "static/js/811.90d51323.chunk.js": "/static/js/811.90d51323.chunk.js",
+    "main.js": "/static/js/main.7f14abca.js",
     "static/css/457.4bd4426b.chunk.css": "/static/css/457.4bd4426b.chunk.css",
-    "static/js/457.322cd1ca.chunk.js": "/static/js/457.322cd1ca.chunk.js",
-    "static/js/657.07f77dae.chunk.js": "/static/js/657.07f77dae.chunk.js",
-    "static/js/438.08616956.chunk.js": "/static/js/438.08616956.chunk.js",
+    "static/js/457.3629a5e1.chunk.js": "/static/js/457.3629a5e1.chunk.js",
+    "static/js/495.bb45a99b.chunk.js": "/static/js/495.bb45a99b.chunk.js",
+    "static/js/438.64639a9d.chunk.js": "/static/js/438.64639a9d.chunk.js",
     "static/js/630.c81bf4d3.chunk.js": "/static/js/630.c81bf4d3.chunk.js",
-    "static/js/673.cdf2d929.chunk.js": "/static/js/673.cdf2d929.chunk.js",
-    "static/js/78.0872ce3b.chunk.js": "/static/js/78.0872ce3b.chunk.js",
+    "static/js/673.ff5a7199.chunk.js": "/static/js/673.ff5a7199.chunk.js",
+    "static/js/74.90262c91.chunk.js": "/static/js/74.90262c91.chunk.js",
     "static/js/27.3380cc86.chunk.js": "/static/js/27.3380cc86.chunk.js",
-    "static/js/534.599e5777.chunk.js": "/static/js/534.599e5777.chunk.js",
-    "static/js/37.2339bd8c.chunk.js": "/static/js/37.2339bd8c.chunk.js",
-    "static/js/883.8610a55e.chunk.js": "/static/js/883.8610a55e.chunk.js",
+    "static/js/78.2c04ec99.chunk.js": "/static/js/78.2c04ec99.chunk.js",
+    "static/js/392.67aea66f.chunk.js": "/static/js/392.67aea66f.chunk.js",
+    "static/js/706.0eca7394.chunk.js": "/static/js/706.0eca7394.chunk.js",
     "static/js/881.5a416b72.chunk.js": "/static/js/881.5a416b72.chunk.js",
-    "static/js/267.f11d188d.chunk.js": "/static/js/267.f11d188d.chunk.js",
     "static/js/569.9d95bf64.chunk.js": "/static/js/569.9d95bf64.chunk.js",
-    "static/media/bg1.jpeg": "/static/media/bg1.ee117ebbbdbf93653866.jpeg",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.7d377f4b.css",
-    "static/js/main.d2ff688a.js"
+    "static/js/main.7f14abca.js"
   ]
 }
