@@ -31,7 +31,7 @@ registerMicroApps([
   },
   {
     name: 'react-pro', // 应用名字
-    // entry: '/react/', // html 打包注意更改
+    // entry: '/react2/', // html 打包注意更改
     entry: '//localhost:3012', // html
     container: '#react2', // 容器名
     activeRule: '/react2', // 激活的路径
