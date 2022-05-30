@@ -22,18 +22,19 @@ dream start
     // yarn add qiankun
   ```
   
-## 子项目一
-+ 访问路径： https://web-ljc.github.io/vue/
+## 后端管理系统
++ 访问路径： https://web-ljc.github.io/admin/
 ```js
-1. 使用技术栈 vue3 + typescript
+1. 使用技术栈 react + hooks + typescript
+2. 源代码： https://github.com/web-ljc/pro-backstage
 ```
 ## 子项目二
-+ 访问路径： https://web-ljc.github.io/react/
++ 访问路径： https://web-ljc.github.io/vue3
 ```js
 1. 使用技术栈 react + typescript
 ```
 ## 子项目三
-+ 访问路径： 
++ 访问路径： https://web-ljc.github.io/react2
 ```js
 1. 计划搭建微信小程序
 ```
@@ -41,6 +42,7 @@ dream start
 ## 进度
 ```js
 1. 完成主页面基础搭建
-2. 子项目一正在开发中
-2. 完成子项目二基础搭建
+2. 后端管理系统开发进度80%
+3. 完成子项目二基础搭建
+4. 完成子项目三基础搭建
 ```

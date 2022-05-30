@@ -4,7 +4,7 @@ import '@style/components/footer.less'
 const Footer = () => {
   return (
     <div className='footer-div'>
-      <div>系统是由React + Ant Design 搭建</div>
+      <div>系统基于React + TypeScript + AntDesign技术搭建</div>
     </div>
   )
 }
