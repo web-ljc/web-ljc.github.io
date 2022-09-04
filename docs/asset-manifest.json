@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2b0eae7c.css",
-    "main.js": "/static/js/main.b65ef4e6.js",
+    "main.js": "/static/js/main.e6cb5209.js",
     "static/js/27.4f92821f.chunk.js": "/static/js/27.4f92821f.chunk.js",
-    "static/media/李佳臣_前端开发简历.pdf": "/static/media/李佳臣_前端开发简历.60e64ba3aa1048c055ac.pdf",
     "static/media/手撕Promise.md": "/static/media/手撕Promise.d72045bb58915143f2d5.md",
     "static/media/微前端技术.md": "/static/media/微前端技术.e546d26271773b973a08.md",
     "index.html": "/index.html",
@@ -14,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.2b0eae7c.css",
-    "static/js/main.b65ef4e6.js"
+    "static/js/main.e6cb5209.js"
   ]
 }
